@@ -1,3 +1,0 @@
-Dexterous
-=========
-My first game.
